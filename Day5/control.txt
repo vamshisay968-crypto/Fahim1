@@ -1,0 +1,10 @@
+// control statements
+/*
+conditional statements
+Looping/Iterative statement 
+Loop control/Jumping statements
+*/
+
+Conditional Statements
+-----------------------------
+These statement works on the base of condition
